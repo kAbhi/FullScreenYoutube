@@ -1,0 +1,1 @@
+javascript:var%20web=window.location.search;web=web.split('=');window.location="https://youtube.googleapis.com/v/"+web[1];
